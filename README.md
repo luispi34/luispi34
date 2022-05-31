@@ -1,7 +1,7 @@
 - 👋 eu sou @luispi34 
 - 👀 tenho interece em jogos de fps tipo battlefield ,de sobrevivencia como o minecraft e de jogar futebol
-- 🌱  atualmente estou aprendendo 
-- 💞️ procuro colaborar
+- 🌱  atualmente estou aprendendo sobre computação e o java para criação de jogos
+- 💞️ procuro colaborar esquemas basícos de programação
 - 📫Como chegar até mim meu email de contato é luis.gustavo.pinheiro@escola.pr.gov.br
 
 <!---
