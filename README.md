@@ -9,8 +9,4 @@ luispi34/luispi34 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-jogador-cristiano-ronaldo-2.gif)
- -----
-     ----------------------------------
-     -----------
-     -----
-     --
+ 
